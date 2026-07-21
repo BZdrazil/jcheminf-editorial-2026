@@ -2,7 +2,7 @@
 
 Code and data underlying **Figure 1** of the editorial:
 
-> Martinez-Mayorga, K. & Zdrazil, B. (2026)
+> Zdrazil, B. & Martinez-Mayorga, K. (2026)
 > *Cheminformatics as a core driver of molecular discovery and design.*
 > *Journal of Cheminformatics* [in press].
 
