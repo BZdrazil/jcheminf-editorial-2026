@@ -72,7 +72,7 @@ If you use this code or analysis, please cite the editorial:
 
 A `CITATION.cff` file is provided for tools that consume it.
 
-This repository itself is archived at [Zenodo DOI — to be added on deposit].
+This repository itself is archived at https://doi.org/10.5281/zenodo.21474527
 
 ---
 
