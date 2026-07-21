@@ -1,0 +1,9 @@
+# Versions used to produce the published figure.
+# The figure is bit-reproducible with these versions and random_state=42.
+# More recent versions will likely work but may produce slightly different
+# NMF initialisations; if so, re-inspect TOPIC_LABELS using the top-term
+# output the script prints.
+
+numpy==2.4.4
+scikit-learn==1.8.0
+matplotlib==3.10.8
