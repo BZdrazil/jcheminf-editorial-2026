@@ -61,8 +61,8 @@ If you reproduce or extend this analysis, we would be glad to hear about it (iss
 If you use this code or analysis, please cite the editorial:
 
 ```bibtex
-@article{MartinezMayorga2026,
-  author  = {Martinez-Mayorga, Karina and Zdrazil, Barbara},
+@article{Zdrazil2026,
+  author  = {Zdrazil, Barbara and Martinez-Mayorga, Karina },
   title   = {Cheminformatics as a core driver of molecular discovery and design},
   journal = {Journal of Cheminformatics},
   year    = {2026},
@@ -86,5 +86,6 @@ This repository itself is archived at [Zenodo DOI — to be added on deposit].
 
 ## Authors
 
-- **Karina Martinez-Mayorga** — Institute of Chemistry, National Autonomous University of Mexico (UNAM), Campus Mérida, Yucatán, Mexico
 - **Barbara Zdrazil** — European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Hinxton, UK ([ORCID 0000-0001-9395-1515](https://orcid.org/0000-0001-9395-1515))
+- **Karina Martinez-Mayorga** — Institute of Chemistry, National Autonomous University of Mexico (UNAM), Campus Mérida, Yucatán, Mexico
+
