@@ -168,9 +168,9 @@ With `random_state=42` and identical input, the resulting figure is bit-identica
 
 If you use this code or analysis, please cite the editorial:
 
-> Martinez-Mayorga K., Zdrazil B. (2026) Cheminformatics as a core driver of molecular discovery and design. *J. Cheminform.* [in press].
+> Zdrazil B., Martinez-Mayorga K. (2026) Cheminformatics as a core driver of molecular discovery and design. *J. Cheminform.* [in press].
 
-The repository itself is archived at [Zenodo DOI — to be added on deposit].
+The repository itself is archived at https://doi.org/10.5281/zenodo.21474527.
 
 ---
 
