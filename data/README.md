@@ -15,7 +15,7 @@ indexed between 1 January 2015 and 31 December 2025.
 **Export format.** PubMed Citation Manager format (`.nbib`), retrieved via
 *Send to → Citation manager*.
 
-**Retrieval date.** [TO BE FILLED IN BY AUTHORS BEFORE DEPOSIT]
+**Retrieval date.** June 9, 2026
 
 **Record count.** 1,050 records with abstracts (after dropping records
 without an abstract field or publication year).
