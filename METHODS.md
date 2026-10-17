@@ -2,7 +2,7 @@
 
 This document accompanies **Figure 1** of the editorial *"Cheminformatics as a core driver of molecular discovery and design"* (Martinez-Mayorga & Zdrazil, *J. Cheminform.* 2026). It describes how the figure was produced, the choices that were made, and the limitations the reader should keep in mind when interpreting it.
 
-The full analysis is in [`figure1_topics.py`](figure1_topics.py); this document explains the *why* behind it.
+The full analysis is in [`figure1_topics.py`](src/figure1_topics.py); this document explains the *why* behind it.
 
 ---
 
